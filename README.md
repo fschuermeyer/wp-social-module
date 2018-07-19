@@ -1,4 +1,4 @@
-# wp-social-module
+# Social Share Wordpress Module
 
 Social Share Module for Wordpress Themes
 
